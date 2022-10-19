@@ -20,3 +20,6 @@ github上での変更の取り込み
 ```
 git fetch
 ```
+gitでリモートに追加されたブランチを確認する時
+```
+git branch -r
