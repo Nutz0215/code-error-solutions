@@ -46,3 +46,8 @@ mainにmerge出来ないとき
 ```
 git merge <任意のbranch> --allow-unrelated-histories
 ```
+pull request出来なかったとき
+[Errors:There isn't anything to compare]
+```
+https://qiita.com/mikumikumikumiku/items/3353018c72a1bf306f21
+```
