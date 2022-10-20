@@ -23,3 +23,7 @@ git fetch
 gitでリモートに追加されたブランチを確認する時
 ```
 git branch -r
+```
+既存のリポジトリをクローンする
+```
+git clone <リポジトリのHTTPS URL>
