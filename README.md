@@ -40,3 +40,9 @@ git remote add origin https://github.com/YYYYYYY/test.git
 
 git push origin master
 ```
+mainにmerge出来ないとき
+
+[Errors:fatal: refusing to merge unrelated histories]
+```
+git merge <任意のbranch> --allow-unrelated-histories
+```
