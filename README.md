@@ -27,9 +27,14 @@ git branch -r
 既存のリポジトリをクローンする
 ```
 git clone <リポジトリのHTTPS URL>
+pushするときのめも
 ```
 git init
+```
 git add .
+```
 git commit -m "XXXXXXX"
+```
 git remote add origin https://github.com/YYYYYYY/test.git
+```
 git push origin master
