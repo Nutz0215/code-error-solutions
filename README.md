@@ -38,7 +38,7 @@ git commit -m "XXXXXXX"
 
 git remote add origin https://github.com/YYYYYYY/test.git
 
-git push origin master
+git push origin master (git push origin main)
 ```
 mainにmerge出来ないとき
 
