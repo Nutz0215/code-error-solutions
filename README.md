@@ -51,8 +51,7 @@ pull request出来なかったとき
 ```
 https://qiita.com/mikumikumikumiku/items/3353018c72a1bf306f21
 ```
-~~~~~~~vue~~~~~~~~~~~~~~~~~~~~
-```
+## vueでのエラーについて
 templateタグを用いた時の【Component template should contain exactly one root element. 】エラーの解消　
 ```
 <div>で全体を囲む
