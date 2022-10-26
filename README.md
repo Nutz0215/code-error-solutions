@@ -56,7 +56,7 @@ templateタグを用いた時の【Component template should contain exactly one
 ```
 <div>で全体を囲む
 ```
-##nuxtを立ち上げる際のエラー解消
+## nuxtを立ち上げる際のエラー解消
 "digital envelope routines"のエラーはNode.jsのバージョンに影響されたエラー
 ```
 export NODE_OPTIONS=--openssl-legacy-provider
